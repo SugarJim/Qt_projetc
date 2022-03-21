@@ -1,0 +1,13 @@
+INPUT(
+./debug\genwidget.o
+./debug\main.o
+./debug\mainwindow.o
+./debug\qbullet.o
+./debug\qfish.o
+./debug\qgun.o
+./debug\qpixmapitem.o
+./debug\qwang.o
+./debug\simview.o
+./debug\moc_genwidget.o
+./debug\moc_mainwindow.o
+);

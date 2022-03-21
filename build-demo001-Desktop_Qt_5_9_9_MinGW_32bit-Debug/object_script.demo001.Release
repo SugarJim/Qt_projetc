@@ -1,0 +1,13 @@
+INPUT(
+./release\genwidget.o
+./release\main.o
+./release\mainwindow.o
+./release\qbullet.o
+./release\qfish.o
+./release\qgun.o
+./release\qpixmapitem.o
+./release\qwang.o
+./release\simview.o
+./release\moc_genwidget.o
+./release\moc_mainwindow.o
+);
